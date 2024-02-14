@@ -16,3 +16,5 @@
 * Oracle
 * GitHub
 * etc...
+
+README 수정
