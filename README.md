@@ -18,3 +18,5 @@
 * etc...
 
 README 수정
+
+README GitHyb에서 수정
