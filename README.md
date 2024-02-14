@@ -20,3 +20,5 @@
 README 수정
 
 README GitHyb에서 수정
+
+README SourceTree에서 커밋
