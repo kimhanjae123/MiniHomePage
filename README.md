@@ -1,24 +1,7 @@
 # 한재의 미니 홈페이지
 
-## 김한재 Kim Han Jae
+## style추가
+- style.md 파일 추가
 
-### 취미
-* 영화감상
-* 노래듣기
-* 운동하기
-
-### 사용해본 기술 & 플랫폼
-* Java
-* JavaScript
-* Python
-* AndroidStudio
-* MySQL
-* Oracle
-* GitHub
-* etc...
-
-README 수정
-
-README GitHyb에서 수정
-
-README SourceTree에서 커밋
+## 내비게이션추가
+- navigation.md 파일 추가
